@@ -1,20 +1,26 @@
-Hotel Practice
+# Hotel Practice
 
-This is a simple Python practice project for learning Object-Oriented Programming.
+This is a simple hotel management program made with Python.
 
-Features
-Create hotel rooms
-Check in guests
-Check out guests
-Find a room by guest name
-Automatically assign an available room by room type
-Display the status of all rooms
-Classes
-HotelRoom
-Represents a single hotel room.
-Hotel
-Manages multiple hotel rooms and guest operations.
-How to Run
-python hotel.py
-Purpose
-This project was created to practice Python classes, objects, methods, loops, and basic exception handling.
+## Features
+
+* Create hotel rooms
+* Check in guests
+* Check out guests
+* Find a guest's room
+* Automatically assign an empty room
+* Show all room information
+
+## Classes
+
+### HotelRoom
+
+Stores information about one hotel room.
+
+### Hotel
+
+Manages all hotel rooms.
+
+## Purpose
+
+I made this project to practice Python classes and object-oriented programming.
